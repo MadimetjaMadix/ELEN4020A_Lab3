@@ -1,4 +1,5 @@
 from topKQueryJob import MRTopKWordQuery
+import sys
 
 def compare_by_occurrence(word_count_pair):
 		# Sorts the list in descending order
@@ -20,9 +21,8 @@ def getTopKWords(word_count_pairs, k):
 		print(word_count_pair[1], word_count_pair[0])
 		
 		
-reducer_output = []
 word_count_pairs = []
-mr_job = MRTopKWordQuery(args=['smallText.txt'])
+mr_job = MRTopKWordQuery(args=sys.argv[1:])
 with mr_job.make_runner() as runner:
 	runner.run()
 	for key, word_count_pair in mr_job.parse_output(runner.cat_output()):
