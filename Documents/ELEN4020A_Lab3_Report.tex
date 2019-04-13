@@ -50,14 +50,92 @@
 \section{Using MapReduce Framework}
 %
 
+\subsection{MrJob}
 ....
 \section{Analysis of Results}
 %
+\subsection{MrJob}
+\begin{table}[H]
+\centering
+\caption{Table showing time taken in seconds to execute MrJob with an inline runner}
+\label{tbl:MrJobInlineRunnerResults}
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{7}{|c|}{\textbf{MrJob's Runner in Inline Mode}}                                                                                                                                                \\ \hline
+\textbf{}                         & \multicolumn{2}{c|}{\textbf{Word Count}}                                  & \multicolumn{2}{c|}{\textbf{Top K Query}} & \multicolumn{2}{c|}{\textbf{Inverted Indexing}} \\ \hline
+\multirow{2}{*}{File1ForLab3.txt} & \multicolumn{1}{l|}{\textbf{PC}} & \multicolumn{1}{l|}{\textbf{Hornet01}} & \textbf{PC}      & \textbf{Hornet01}      & \textbf{PC}         & \textbf{Hornet01}         \\ \cline{2-7} 
+                                  & 0.1614866860                     & 0.234113037                            & 0.206561392      & 0.237100641            & 0.155400192         & 0.167444410               \\ \hline
+File2ForLab3.txt                  & 0.3390905024                     & 0.478173682                            & 0.348368527      & 0.475915451            & 00252612733         & 0.306580266               \\ \hline
+\end{tabular}
+\end{table}
+%%%%%
+\begin{table}[H]
+\centering
+\caption{Table showing time taken in seconds to execute MrJob with a local runner}
+\label{tbl:MrJobLocalRunnerResults}
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{7}{|c|}{\textbf{MrJob's Runner in Local Mode}}                                                                                                                                                 \\ \hline
+\textbf{}                         & \multicolumn{2}{c|}{\textbf{Word Count}}                                  & \multicolumn{2}{c|}{\textbf{Top K Query}} & \multicolumn{2}{c|}{\textbf{Inverted Indexing}} \\ \hline
+\multirow{2}{*}{File1ForLab3.txt} & \multicolumn{1}{l|}{\textbf{PC}} & \multicolumn{1}{l|}{\textbf{Hornet01}} & \textbf{PC}      & \textbf{Hornet01}      & \textbf{PC}         & \textbf{Hornet01}         \\ \cline{2-7} 
+                                  & 0.349227458                      & 0.145003454                            & 0.292195913      & 0.151581794            & 0.292010370         & 0.129592853               \\ \hline
+File2ForLab3.txt                  & 0.321756097                      & 0.185552867                            & 0.332126871      & 0.169163441            & 0.302988557         & 0.164811396               \\ \hline
+\end{tabular}
+\end{table}
+%%%%%
 .... 
 %
 \section{Conclusion}
 %
 This report detailed... 
 %
+
+\cleardoublepage
+\appendix
+\section{Algorithms}
+\subsection{Algorithms used in Word Count Task}
+\begin{algorithm}[H]
+   \label{Alg:MapperWordCount}
+    \caption{Mapper Algorithm for Word Frequency Count}
+    \KwResult{A key and value pair, key equals the word and value is one indicating count}
+    \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
+    \Input{key}
+    \Input{line}
+    Split the words in the line text into a list. \\
+    Get Stop words list.\\
+    \ForEach{word \textbf{in} line}
+    {   
+        Change word to lowercase.\\
+        \If{ word \textbf{not in} STOP\_WORDS \textbf{and} word \textbf{is not} a digit}
+        {
+            \Return word, 1
+        }
+    }
+\end{algorithm}
+
+\begin{algorithm}[H]
+   \label{Alg:ReducerWordCount}
+    \caption{Reducer Algorithm for Word Frequency Count}
+    \KwResult{A key and value pair, key equals the word and value is the total frequency count}
+    \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
+    \Input{key}
+    \Input{frequency list}
+    Sum the frequencies.\\
+    totalFrquency = sum(frequency)\\
+    \Return word, totalFrquency
+\end{algorithm}
+
+\subsection{Algorithms used in Inverted Indexing Task}
+\begin{algorithm}[H]
+   \label{Alg:ReducerInvertedIndexing}
+    \caption{Reducer Algorithm for Word Frequency Count}
+    \KwResult{A key and value pair, key equals the word and value is the total frequency count}
+    \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
+    \Input{key}
+    \Input{frequency list}
+    Sum the frequencies.\\
+    totalFrquency = sum(frequency)\\
+    \Return word, totalFrquency
+\end{algorithm}
 
 \end{document}
