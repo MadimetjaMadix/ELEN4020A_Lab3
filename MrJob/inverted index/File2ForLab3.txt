@@ -1,0 +1,1406 @@
+1	The Project Gutenberg EBook of Pride and Prejudice, by Jane Austen
+2	
+3	This eBook is for the use of anyone anywhere at no cost and with
+4	almost no restrictions whatsoever.  You may copy it, give it away or
+5	re-use it under the terms of the Project Gutenberg License included
+6	with this eBook or online at www.gutenberg.org
+7	
+8	
+9	Title: Pride and Prejudice
+10	
+11	Author: Jane Austen
+12	
+13	Posting Date: August 26, 2008 [EBook #1342]
+14	Release Date: June, 1998
+15	Last Updated: March 10, 2018
+16	
+17	Language: English
+18	
+19	Character set encoding: UTF-8
+20	
+21	*** START OF THIS PROJECT GUTENBERG EBOOK PRIDE AND PREJUDICE ***
+22	
+23	
+24	
+25	
+26	Produced by Anonymous Volunteers
+27	
+28	
+29	
+30	
+31	
+32	PRIDE AND PREJUDICE
+33	
+34	By Jane Austen
+35	
+36	
+37	
+38	Chapter 1
+39	
+40	
+41	It is a truth universally acknowledged, that a single man in possession
+42	of a good fortune, must be in want of a wife.
+43	
+44	However little known the feelings or views of such a man may be on his
+45	first entering a neighbourhood, this truth is so well fixed in the minds
+46	of the surrounding families, that he is considered the rightful property
+47	of some one or other of their daughters.
+48	
+49	“My dear Mr. Bennet,” said his lady to him one day, “have you heard that
+50	Netherfield Park is let at last?”
+51	
+52	Mr. Bennet replied that he had not.
+53	
+54	“But it is,” returned she; “for Mrs. Long has just been here, and she
+55	told me all about it.”
+56	
+57	Mr. Bennet made no answer.
+58	
+59	“Do you not want to know who has taken it?” cried his wife impatiently.
+60	
+61	“You want to tell me, and I have no objection to hearing it.”
+62	
+63	This was invitation enough.
+64	
+65	“Why, my dear, you must know, Mrs. Long says that Netherfield is taken
+66	by a young man of large fortune from the north of England; that he came
+67	down on Monday in a chaise and four to see the place, and was so much
+68	delighted with it, that he agreed with Mr. Morris immediately; that he
+69	is to take possession before Michaelmas, and some of his servants are to
+70	be in the house by the end of next week.”
+71	
+72	“What is his name?”
+73	
+74	“Bingley.”
+75	
+76	“Is he married or single?”
+77	
+78	“Oh! Single, my dear, to be sure! A single man of large fortune; four or
+79	five thousand a year. What a fine thing for our girls!”
+80	
+81	“How so? How can it affect them?”
+82	
+83	“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You
+84	must know that I am thinking of his marrying one of them.”
+85	
+86	“Is that his design in settling here?”
+87	
+88	“Design! Nonsense, how can you talk so! But it is very likely that he
+89	may fall in love with one of them, and therefore you must visit him as
+90	soon as he comes.”
+91	
+92	“I see no occasion for that. You and the girls may go, or you may send
+93	them by themselves, which perhaps will be still better, for as you are
+94	as handsome as any of them, Mr. Bingley may like you the best of the
+95	party.”
+96	
+97	“My dear, you flatter me. I certainly have had my share of beauty, but
+98	I do not pretend to be anything extraordinary now. When a woman has five
+99	grown-up daughters, she ought to give over thinking of her own beauty.”
+100	
+101	“In such cases, a woman has not often much beauty to think of.”
+102	
+103	“But, my dear, you must indeed go and see Mr. Bingley when he comes into
+104	the neighbourhood.”
+105	
+106	“It is more than I engage for, I assure you.”
+107	
+108	“But consider your daughters. Only think what an establishment it would
+109	be for one of them. Sir William and Lady Lucas are determined to
+110	go, merely on that account, for in general, you know, they visit no
+111	newcomers. Indeed you must go, for it will be impossible for us to
+112	visit him if you do not.”
+113	
+114	“You are over-scrupulous, surely. I dare say Mr. Bingley will be very
+115	glad to see you; and I will send a few lines by you to assure him of my
+116	hearty consent to his marrying whichever he chooses of the girls; though
+117	I must throw in a good word for my little Lizzy.”
+118	
+119	“I desire you will do no such thing. Lizzy is not a bit better than the
+120	others; and I am sure she is not half so handsome as Jane, nor half so
+121	good-humoured as Lydia. But you are always giving her the preference.”
+122	
+123	“They have none of them much to recommend them,” replied he; “they are
+124	all silly and ignorant like other girls; but Lizzy has something more of
+125	quickness than her sisters.”
+126	
+127	“Mr. Bennet, how can you abuse your own children in such a way? You
+128	take delight in vexing me. You have no compassion for my poor nerves.”
+129	
+130	“You mistake me, my dear. I have a high respect for your nerves. They
+131	are my old friends. I have heard you mention them with consideration
+132	these last twenty years at least.”
+133	
+134	“Ah, you do not know what I suffer.”
+135	
+136	“But I hope you will get over it, and live to see many young men of four
+137	thousand a year come into the neighbourhood.”
+138	
+139	“It will be no use to us, if twenty such should come, since you will not
+140	visit them.”
+141	
+142	“Depend upon it, my dear, that when there are twenty, I will visit them
+143	all.”
+144	
+145	Mr. Bennet was so odd a mixture of quick parts, sarcastic humour,
+146	reserve, and caprice, that the experience of three-and-twenty years had
+147	been insufficient to make his wife understand his character. Her mind
+148	was less difficult to develop. She was a woman of mean understanding,
+149	little information, and uncertain temper. When she was discontented,
+150	she fancied herself nervous. The business of her life was to get her
+151	daughters married; its solace was visiting and news.
+152	
+153	
+154	
+155	Chapter 2
+156	
+157	
+158	Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He
+159	had always intended to visit him, though to the last always assuring
+160	his wife that he should not go; and till the evening after the visit was
+161	paid she had no knowledge of it. It was then disclosed in the following
+162	manner. Observing his second daughter employed in trimming a hat, he
+163	suddenly addressed her with:
+164	
+165	“I hope Mr. Bingley will like it, Lizzy.”
+166	
+167	“We are not in a way to know what Mr. Bingley likes,” said her mother
+168	resentfully, “since we are not to visit.”
+169	
+170	“But you forget, mamma,” said Elizabeth, “that we shall meet him at the
+171	assemblies, and that Mrs. Long promised to introduce him.”
+172	
+173	“I do not believe Mrs. Long will do any such thing. She has two nieces
+174	of her own. She is a selfish, hypocritical woman, and I have no opinion
+175	of her.”
+176	
+177	“No more have I,” said Mr. Bennet; “and I am glad to find that you do
+178	not depend on her serving you.”
+179	
+180	Mrs. Bennet deigned not to make any reply, but, unable to contain
+181	herself, began scolding one of her daughters.
+182	
+183	“Don't keep coughing so, Kitty, for Heaven's sake! Have a little
+184	compassion on my nerves. You tear them to pieces.”
+185	
+186	“Kitty has no discretion in her coughs,” said her father; “she times
+187	them ill.”
+188	
+189	“I do not cough for my own amusement,” replied Kitty fretfully. “When is
+190	your next ball to be, Lizzy?”
+191	
+192	“To-morrow fortnight.”
+193	
+194	“Aye, so it is,” cried her mother, “and Mrs. Long does not come back
+195	till the day before; so it will be impossible for her to introduce him,
+196	for she will not know him herself.”
+197	
+198	“Then, my dear, you may have the advantage of your friend, and introduce
+199	Mr. Bingley to her.”
+200	
+201	“Impossible, Mr. Bennet, impossible, when I am not acquainted with him
+202	myself; how can you be so teasing?”
+203	
+204	“I honour your circumspection. A fortnight's acquaintance is certainly
+205	very little. One cannot know what a man really is by the end of a
+206	fortnight. But if we do not venture somebody else will; and after all,
+207	Mrs. Long and her neices must stand their chance; and, therefore, as
+208	she will think it an act of kindness, if you decline the office, I will
+209	take it on myself.”
+210	
+211	The girls stared at their father. Mrs. Bennet said only, “Nonsense,
+212	nonsense!”
+213	
+214	“What can be the meaning of that emphatic exclamation?” cried he. “Do
+215	you consider the forms of introduction, and the stress that is laid on
+216	them, as nonsense? I cannot quite agree with you there. What say you,
+217	Mary? For you are a young lady of deep reflection, I know, and read
+218	great books and make extracts.”
+219	
+220	Mary wished to say something sensible, but knew not how.
+221	
+222	“While Mary is adjusting her ideas,” he continued, “let us return to Mr.
+223	Bingley.”
+224	
+225	“I am sick of Mr. Bingley,” cried his wife.
+226	
+227	“I am sorry to hear that; but why did not you tell me that before? If
+228	I had known as much this morning I certainly would not have called
+229	on him. It is very unlucky; but as I have actually paid the visit, we
+230	cannot escape the acquaintance now.”
+231	
+232	The astonishment of the ladies was just what he wished; that of Mrs.
+233	Bennet perhaps surpassing the rest; though, when the first tumult of joy
+234	was over, she began to declare that it was what she had expected all the
+235	while.
+236	
+237	“How good it was in you, my dear Mr. Bennet! But I knew I should
+238	persuade you at last. I was sure you loved your girls too well to
+239	neglect such an acquaintance. Well, how pleased I am! and it is such a
+240	good joke, too, that you should have gone this morning and never said a
+241	word about it till now.”
+242	
+243	“Now, Kitty, you may cough as much as you choose,” said Mr. Bennet; and,
+244	as he spoke, he left the room, fatigued with the raptures of his wife.
+245	
+246	“What an excellent father you have, girls!” said she, when the door was
+247	shut. “I do not know how you will ever make him amends for his kindness;
+248	or me, either, for that matter. At our time of life it is not so
+249	pleasant, I can tell you, to be making new acquaintances every day; but
+250	for your sakes, we would do anything. Lydia, my love, though you are
+251	the youngest, I dare say Mr. Bingley will dance with you at the next
+252	ball.”
+253	
+254	“Oh!” said Lydia stoutly, “I am not afraid; for though I am the
+255	youngest, I'm the tallest.”
+256	
+257	The rest of the evening was spent in conjecturing how soon he would
+258	return Mr. Bennet's visit, and determining when they should ask him to
+259	dinner.
+260	
+261	
+262	
+263	Chapter 3
+264	
+265	
+266	Not all that Mrs. Bennet, however, with the assistance of her five
+267	daughters, could ask on the subject, was sufficient to draw from her
+268	husband any satisfactory description of Mr. Bingley. They attacked him
+269	in various ways--with barefaced questions, ingenious suppositions, and
+270	distant surmises; but he eluded the skill of them all, and they were at
+271	last obliged to accept the second-hand intelligence of their neighbour,
+272	Lady Lucas. Her report was highly favourable. Sir William had been
+273	delighted with him. He was quite young, wonderfully handsome, extremely
+274	agreeable, and, to crown the whole, he meant to be at the next assembly
+275	with a large party. Nothing could be more delightful! To be fond of
+276	dancing was a certain step towards falling in love; and very lively
+277	hopes of Mr. Bingley's heart were entertained.
+278	
+279	“If I can but see one of my daughters happily settled at Netherfield,”
+280	 said Mrs. Bennet to her husband, “and all the others equally well
+281	married, I shall have nothing to wish for.”
+282	
+283	In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about
+284	ten minutes with him in his library. He had entertained hopes of being
+285	admitted to a sight of the young ladies, of whose beauty he had
+286	heard much; but he saw only the father. The ladies were somewhat more
+287	fortunate, for they had the advantage of ascertaining from an upper
+288	window that he wore a blue coat, and rode a black horse.
+289	
+290	An invitation to dinner was soon afterwards dispatched; and already
+291	had Mrs. Bennet planned the courses that were to do credit to her
+292	housekeeping, when an answer arrived which deferred it all. Mr. Bingley
+293	was obliged to be in town the following day, and, consequently, unable
+294	to accept the honour of their invitation, etc. Mrs. Bennet was quite
+295	disconcerted. She could not imagine what business he could have in town
+296	so soon after his arrival in Hertfordshire; and she began to fear that
+297	he might be always flying about from one place to another, and never
+298	settled at Netherfield as he ought to be. Lady Lucas quieted her fears
+299	a little by starting the idea of his being gone to London only to get
+300	a large party for the ball; and a report soon followed that Mr. Bingley
+301	was to bring twelve ladies and seven gentlemen with him to the assembly.
+302	The girls grieved over such a number of ladies, but were comforted the
+303	day before the ball by hearing, that instead of twelve he brought only
+304	six with him from London--his five sisters and a cousin. And when
+305	the party entered the assembly room it consisted of only five
+306	altogether--Mr. Bingley, his two sisters, the husband of the eldest, and
+307	another young man.
+308	
+309	Mr. Bingley was good-looking and gentlemanlike; he had a pleasant
+310	countenance, and easy, unaffected manners. His sisters were fine women,
+311	with an air of decided fashion. His brother-in-law, Mr. Hurst, merely
+312	looked the gentleman; but his friend Mr. Darcy soon drew the attention
+313	of the room by his fine, tall person, handsome features, noble mien, and
+314	the report which was in general circulation within five minutes
+315	after his entrance, of his having ten thousand a year. The gentlemen
+316	pronounced him to be a fine figure of a man, the ladies declared he
+317	was much handsomer than Mr. Bingley, and he was looked at with great
+318	admiration for about half the evening, till his manners gave a disgust
+319	which turned the tide of his popularity; for he was discovered to be
+320	proud; to be above his company, and above being pleased; and not all
+321	his large estate in Derbyshire could then save him from having a most
+322	forbidding, disagreeable countenance, and being unworthy to be compared
+323	with his friend.
+324	
+325	Mr. Bingley had soon made himself acquainted with all the principal
+326	people in the room; he was lively and unreserved, danced every dance,
+327	was angry that the ball closed so early, and talked of giving
+328	one himself at Netherfield. Such amiable qualities must speak for
+329	themselves. What a contrast between him and his friend! Mr. Darcy danced
+330	only once with Mrs. Hurst and once with Miss Bingley, declined being
+331	introduced to any other lady, and spent the rest of the evening in
+332	walking about the room, speaking occasionally to one of his own party.
+333	His character was decided. He was the proudest, most disagreeable man
+334	in the world, and everybody hoped that he would never come there again.
+335	Amongst the most violent against him was Mrs. Bennet, whose dislike of
+336	his general behaviour was sharpened into particular resentment by his
+337	having slighted one of her daughters.
+338	
+339	Elizabeth Bennet had been obliged, by the scarcity of gentlemen, to sit
+340	down for two dances; and during part of that time, Mr. Darcy had been
+341	standing near enough for her to hear a conversation between him and Mr.
+342	Bingley, who came from the dance for a few minutes, to press his friend
+343	to join it.
+344	
+345	“Come, Darcy,” said he, “I must have you dance. I hate to see you
+346	standing about by yourself in this stupid manner. You had much better
+347	dance.”
+348	
+349	“I certainly shall not. You know how I detest it, unless I am
+350	particularly acquainted with my partner. At such an assembly as this
+351	it would be insupportable. Your sisters are engaged, and there is not
+352	another woman in the room whom it would not be a punishment to me to
+353	stand up with.”
+354	
+355	“I would not be so fastidious as you are,” cried Mr. Bingley, “for a
+356	kingdom! Upon my honour, I never met with so many pleasant girls in
+357	my life as I have this evening; and there are several of them you see
+358	uncommonly pretty.”
+359	
+360	“You are dancing with the only handsome girl in the room,” said Mr.
+361	Darcy, looking at the eldest Miss Bennet.
+362	
+363	“Oh! She is the most beautiful creature I ever beheld! But there is one
+364	of her sisters sitting down just behind you, who is very pretty, and I
+365	dare say very agreeable. Do let me ask my partner to introduce you.”
+366	
+367	“Which do you mean?” and turning round he looked for a moment at
+368	Elizabeth, till catching her eye, he withdrew his own and coldly said:
+369	“She is tolerable, but not handsome enough to tempt me; I am in no
+370	humour at present to give consequence to young ladies who are slighted
+371	by other men. You had better return to your partner and enjoy her
+372	smiles, for you are wasting your time with me.”
+373	
+374	Mr. Bingley followed his advice. Mr. Darcy walked off; and Elizabeth
+375	remained with no very cordial feelings toward him. She told the story,
+376	however, with great spirit among her friends; for she had a lively,
+377	playful disposition, which delighted in anything ridiculous.
+378	
+379	The evening altogether passed off pleasantly to the whole family. Mrs.
+380	Bennet had seen her eldest daughter much admired by the Netherfield
+381	party. Mr. Bingley had danced with her twice, and she had been
+382	distinguished by his sisters. Jane was as much gratified by this as
+383	her mother could be, though in a quieter way. Elizabeth felt Jane's
+384	pleasure. Mary had heard herself mentioned to Miss Bingley as the most
+385	accomplished girl in the neighbourhood; and Catherine and Lydia had been
+386	fortunate enough never to be without partners, which was all that they
+387	had yet learnt to care for at a ball. They returned, therefore, in good
+388	spirits to Longbourn, the village where they lived, and of which they
+389	were the principal inhabitants. They found Mr. Bennet still up. With
+390	a book he was regardless of time; and on the present occasion he had a
+391	good deal of curiosity as to the event of an evening which had raised
+392	such splendid expectations. He had rather hoped that his wife's views on
+393	the stranger would be disappointed; but he soon found out that he had a
+394	different story to hear.
+395	
+396	“Oh! my dear Mr. Bennet,” as she entered the room, “we have had a most
+397	delightful evening, a most excellent ball. I wish you had been there.
+398	Jane was so admired, nothing could be like it. Everybody said how well
+399	she looked; and Mr. Bingley thought her quite beautiful, and danced with
+400	her twice! Only think of that, my dear; he actually danced with her
+401	twice! and she was the only creature in the room that he asked a second
+402	time. First of all, he asked Miss Lucas. I was so vexed to see him stand
+403	up with her! But, however, he did not admire her at all; indeed, nobody
+404	can, you know; and he seemed quite struck with Jane as she was going
+405	down the dance. So he inquired who she was, and got introduced, and
+406	asked her for the two next. Then the two third he danced with Miss King,
+407	and the two fourth with Maria Lucas, and the two fifth with Jane again,
+408	and the two sixth with Lizzy, and the Boulanger--”
+409	
+410	“If he had had any compassion for me,” cried her husband impatiently,
+411	“he would not have danced half so much! For God's sake, say no more of
+412	his partners. Oh that he had sprained his ankle in the first dance!”
+413	
+414	“Oh! my dear, I am quite delighted with him. He is so excessively
+415	handsome! And his sisters are charming women. I never in my life saw
+416	anything more elegant than their dresses. I dare say the lace upon Mrs.
+417	Hurst's gown--”
+418	
+419	Here she was interrupted again. Mr. Bennet protested against any
+420	description of finery. She was therefore obliged to seek another branch
+421	of the subject, and related, with much bitterness of spirit and some
+422	exaggeration, the shocking rudeness of Mr. Darcy.
+423	
+424	“But I can assure you,” she added, “that Lizzy does not lose much by not
+425	suiting his fancy; for he is a most disagreeable, horrid man, not at
+426	all worth pleasing. So high and so conceited that there was no enduring
+427	him! He walked here, and he walked there, fancying himself so very
+428	great! Not handsome enough to dance with! I wish you had been there, my
+429	dear, to have given him one of your set-downs. I quite detest the man.”
+430	
+431	
+432	
+433	Chapter 4
+434	
+435	
+436	When Jane and Elizabeth were alone, the former, who had been cautious in
+437	her praise of Mr. Bingley before, expressed to her sister just how very
+438	much she admired him.
+439	
+440	“He is just what a young man ought to be,” said she, “sensible,
+441	good-humoured, lively; and I never saw such happy manners!--so much
+442	ease, with such perfect good breeding!”
+443	
+444	“He is also handsome,” replied Elizabeth, “which a young man ought
+445	likewise to be, if he possibly can. His character is thereby complete.”
+446	
+447	“I was very much flattered by his asking me to dance a second time. I
+448	did not expect such a compliment.”
+449	
+450	“Did not you? I did for you. But that is one great difference between
+451	us. Compliments always take you by surprise, and me never. What
+452	could be more natural than his asking you again? He could not help
+453	seeing that you were about five times as pretty as every other woman
+454	in the room. No thanks to his gallantry for that. Well, he certainly is
+455	very agreeable, and I give you leave to like him. You have liked many a
+456	stupider person.”
+457	
+458	“Dear Lizzy!”
+459	
+460	“Oh! you are a great deal too apt, you know, to like people in general.
+461	You never see a fault in anybody. All the world are good and agreeable
+462	in your eyes. I never heard you speak ill of a human being in your
+463	life.”
+464	
+465	“I would not wish to be hasty in censuring anyone; but I always speak
+466	what I think.”
+467	
+468	“I know you do; and it is that which makes the wonder. With your
+469	good sense, to be so honestly blind to the follies and nonsense of
+470	others! Affectation of candour is common enough--one meets with it
+471	everywhere. But to be candid without ostentation or design--to take the
+472	good of everybody's character and make it still better, and say nothing
+473	of the bad--belongs to you alone. And so you like this man's sisters,
+474	too, do you? Their manners are not equal to his.”
+475	
+476	“Certainly not--at first. But they are very pleasing women when you
+477	converse with them. Miss Bingley is to live with her brother, and keep
+478	his house; and I am much mistaken if we shall not find a very charming
+479	neighbour in her.”
+480	
+481	Elizabeth listened in silence, but was not convinced; their behaviour at
+482	the assembly had not been calculated to please in general; and with more
+483	quickness of observation and less pliancy of temper than her sister,
+484	and with a judgement too unassailed by any attention to herself, she
+485	was very little disposed to approve them. They were in fact very fine
+486	ladies; not deficient in good humour when they were pleased, nor in the
+487	power of making themselves agreeable when they chose it, but proud and
+488	conceited. They were rather handsome, had been educated in one of the
+489	first private seminaries in town, had a fortune of twenty thousand
+490	pounds, were in the habit of spending more than they ought, and of
+491	associating with people of rank, and were therefore in every respect
+492	entitled to think well of themselves, and meanly of others. They were of
+493	a respectable family in the north of England; a circumstance more deeply
+494	impressed on their memories than that their brother's fortune and their
+495	own had been acquired by trade.
+496	
+497	Mr. Bingley inherited property to the amount of nearly a hundred
+498	thousand pounds from his father, who had intended to purchase an
+499	estate, but did not live to do it. Mr. Bingley intended it likewise, and
+500	sometimes made choice of his county; but as he was now provided with a
+501	good house and the liberty of a manor, it was doubtful to many of those
+502	who best knew the easiness of his temper, whether he might not spend the
+503	remainder of his days at Netherfield, and leave the next generation to
+504	purchase.
+505	
+506	His sisters were anxious for his having an estate of his own; but,
+507	though he was now only established as a tenant, Miss Bingley was by no
+508	means unwilling to preside at his table--nor was Mrs. Hurst, who had
+509	married a man of more fashion than fortune, less disposed to consider
+510	his house as her home when it suited her. Mr. Bingley had not been of
+511	age two years, when he was tempted by an accidental recommendation
+512	to look at Netherfield House. He did look at it, and into it for
+513	half-an-hour--was pleased with the situation and the principal
+514	rooms, satisfied with what the owner said in its praise, and took it
+515	immediately.
+516	
+517	Between him and Darcy there was a very steady friendship, in spite of
+518	great opposition of character. Bingley was endeared to Darcy by the
+519	easiness, openness, and ductility of his temper, though no disposition
+520	could offer a greater contrast to his own, and though with his own he
+521	never appeared dissatisfied. On the strength of Darcy's regard, Bingley
+522	had the firmest reliance, and of his judgement the highest opinion.
+523	In understanding, Darcy was the superior. Bingley was by no means
+524	deficient, but Darcy was clever. He was at the same time haughty,
+525	reserved, and fastidious, and his manners, though well-bred, were not
+526	inviting. In that respect his friend had greatly the advantage. Bingley
+527	was sure of being liked wherever he appeared, Darcy was continually
+528	giving offense.
+529	
+530	The manner in which they spoke of the Meryton assembly was sufficiently
+531	characteristic. Bingley had never met with more pleasant people or
+532	prettier girls in his life; everybody had been most kind and attentive
+533	to him; there had been no formality, no stiffness; he had soon felt
+534	acquainted with all the room; and, as to Miss Bennet, he could not
+535	conceive an angel more beautiful. Darcy, on the contrary, had seen a
+536	collection of people in whom there was little beauty and no fashion, for
+537	none of whom he had felt the smallest interest, and from none received
+538	either attention or pleasure. Miss Bennet he acknowledged to be pretty,
+539	but she smiled too much.
+540	
+541	Mrs. Hurst and her sister allowed it to be so--but still they admired
+542	her and liked her, and pronounced her to be a sweet girl, and one
+543	whom they would not object to know more of. Miss Bennet was therefore
+544	established as a sweet girl, and their brother felt authorized by such
+545	commendation to think of her as he chose.
+546	
+547	
+548	
+549	Chapter 5
+550	
+551	
+552	Within a short walk of Longbourn lived a family with whom the Bennets
+553	were particularly intimate. Sir William Lucas had been formerly in trade
+554	in Meryton, where he had made a tolerable fortune, and risen to the
+555	honour of knighthood by an address to the king during his mayoralty.
+556	The distinction had perhaps been felt too strongly. It had given him a
+557	disgust to his business, and to his residence in a small market town;
+558	and, in quitting them both, he had removed with his family to a house
+559	about a mile from Meryton, denominated from that period Lucas Lodge,
+560	where he could think with pleasure of his own importance, and,
+561	unshackled by business, occupy himself solely in being civil to all
+562	the world. For, though elated by his rank, it did not render him
+563	supercilious; on the contrary, he was all attention to everybody. By
+564	nature inoffensive, friendly, and obliging, his presentation at St.
+565	James's had made him courteous.
+566	
+567	Lady Lucas was a very good kind of woman, not too clever to be a
+568	valuable neighbour to Mrs. Bennet. They had several children. The eldest
+569	of them, a sensible, intelligent young woman, about twenty-seven, was
+570	Elizabeth's intimate friend.
+571	
+572	That the Miss Lucases and the Miss Bennets should meet to talk over
+573	a ball was absolutely necessary; and the morning after the assembly
+574	brought the former to Longbourn to hear and to communicate.
+575	
+576	“You began the evening well, Charlotte,” said Mrs. Bennet with civil
+577	self-command to Miss Lucas. “You were Mr. Bingley's first choice.”
+578	
+579	“Yes; but he seemed to like his second better.”
+580	
+581	“Oh! you mean Jane, I suppose, because he danced with her twice. To be
+582	sure that did seem as if he admired her--indeed I rather believe he
+583	did--I heard something about it--but I hardly know what--something
+584	about Mr. Robinson.”
+585	
+586	“Perhaps you mean what I overheard between him and Mr. Robinson; did not
+587	I mention it to you? Mr. Robinson's asking him how he liked our Meryton
+588	assemblies, and whether he did not think there were a great many
+589	pretty women in the room, and which he thought the prettiest? and his
+590	answering immediately to the last question: 'Oh! the eldest Miss Bennet,
+591	beyond a doubt; there cannot be two opinions on that point.'”
+592	
+593	“Upon my word! Well, that is very decided indeed--that does seem as
+594	if--but, however, it may all come to nothing, you know.”
+595	
+596	“My overhearings were more to the purpose than yours, Eliza,” said
+597	Charlotte. “Mr. Darcy is not so well worth listening to as his friend,
+598	is he?--poor Eliza!--to be only just tolerable.”
+599	
+600	“I beg you would not put it into Lizzy's head to be vexed by his
+601	ill-treatment, for he is such a disagreeable man, that it would be quite
+602	a misfortune to be liked by him. Mrs. Long told me last night that he
+603	sat close to her for half-an-hour without once opening his lips.”
+604	
+605	“Are you quite sure, ma'am?--is not there a little mistake?” said Jane.
+606	“I certainly saw Mr. Darcy speaking to her.”
+607	
+608	“Aye--because she asked him at last how he liked Netherfield, and he
+609	could not help answering her; but she said he seemed quite angry at
+610	being spoke to.”
+611	
+612	“Miss Bingley told me,” said Jane, “that he never speaks much,
+613	unless among his intimate acquaintances. With them he is remarkably
+614	agreeable.”
+615	
+616	“I do not believe a word of it, my dear. If he had been so very
+617	agreeable, he would have talked to Mrs. Long. But I can guess how it
+618	was; everybody says that he is eat up with pride, and I dare say he had
+619	heard somehow that Mrs. Long does not keep a carriage, and had come to
+620	the ball in a hack chaise.”
+621	
+622	“I do not mind his not talking to Mrs. Long,” said Miss Lucas, “but I
+623	wish he had danced with Eliza.”
+624	
+625	“Another time, Lizzy,” said her mother, “I would not dance with him,
+626	if I were you.”
+627	
+628	“I believe, ma'am, I may safely promise you never to dance with him.”
+629	
+630	“His pride,” said Miss Lucas, “does not offend me so much as pride
+631	often does, because there is an excuse for it. One cannot wonder that so
+632	very fine a young man, with family, fortune, everything in his favour,
+633	should think highly of himself. If I may so express it, he has a right
+634	to be proud.”
+635	
+636	“That is very true,” replied Elizabeth, “and I could easily forgive
+637	his pride, if he had not mortified mine.”
+638	
+639	“Pride,” observed Mary, who piqued herself upon the solidity of her
+640	reflections, “is a very common failing, I believe. By all that I have
+641	ever read, I am convinced that it is very common indeed; that human
+642	nature is particularly prone to it, and that there are very few of us
+643	who do not cherish a feeling of self-complacency on the score of some
+644	quality or other, real or imaginary. Vanity and pride are different
+645	things, though the words are often used synonymously. A person may
+646	be proud without being vain. Pride relates more to our opinion of
+647	ourselves, vanity to what we would have others think of us.”
+648	
+649	“If I were as rich as Mr. Darcy,” cried a young Lucas, who came with
+650	his sisters, “I should not care how proud I was. I would keep a pack of
+651	foxhounds, and drink a bottle of wine a day.”
+652	
+653	“Then you would drink a great deal more than you ought,” said Mrs.
+654	Bennet; “and if I were to see you at it, I should take away your bottle
+655	directly.”
+656	
+657	The boy protested that she should not; she continued to declare that she
+658	would, and the argument ended only with the visit.
+659	
+660	
+661	
+662	Chapter 6
+663	
+664	
+665	The ladies of Longbourn soon waited on those of Netherfield. The visit
+666	was soon returned in due form. Miss Bennet's pleasing manners grew on
+667	the goodwill of Mrs. Hurst and Miss Bingley; and though the mother was
+668	found to be intolerable, and the younger sisters not worth speaking to,
+669	a wish of being better acquainted with them was expressed towards
+670	the two eldest. By Jane, this attention was received with the greatest
+671	pleasure, but Elizabeth still saw superciliousness in their treatment
+672	of everybody, hardly excepting even her sister, and could not like them;
+673	though their kindness to Jane, such as it was, had a value as arising in
+674	all probability from the influence of their brother's admiration. It
+675	was generally evident whenever they met, that he did admire her and
+676	to her it was equally evident that Jane was yielding to the preference
+677	which she had begun to entertain for him from the first, and was in a
+678	way to be very much in love; but she considered with pleasure that it
+679	was not likely to be discovered by the world in general, since Jane
+680	united, with great strength of feeling, a composure of temper and a
+681	uniform cheerfulness of manner which would guard her from the suspicions
+682	of the impertinent. She mentioned this to her friend Miss Lucas.
+683	
+684	“It may perhaps be pleasant,” replied Charlotte, “to be able to impose
+685	on the public in such a case; but it is sometimes a disadvantage to be
+686	so very guarded. If a woman conceals her affection with the same skill
+687	from the object of it, she may lose the opportunity of fixing him; and
+688	it will then be but poor consolation to believe the world equally in
+689	the dark. There is so much of gratitude or vanity in almost every
+690	attachment, that it is not safe to leave any to itself. We can all
+691	begin freely--a slight preference is natural enough; but there are
+692	very few of us who have heart enough to be really in love without
+693	encouragement. In nine cases out of ten a women had better show more
+694	affection than she feels. Bingley likes your sister undoubtedly; but he
+695	may never do more than like her, if she does not help him on.”
+696	
+697	“But she does help him on, as much as her nature will allow. If I can
+698	perceive her regard for him, he must be a simpleton, indeed, not to
+699	discover it too.”
+700	
+701	“Remember, Eliza, that he does not know Jane's disposition as you do.”
+702	
+703	“But if a woman is partial to a man, and does not endeavour to conceal
+704	it, he must find it out.”
+705	
+706	“Perhaps he must, if he sees enough of her. But, though Bingley and Jane
+707	meet tolerably often, it is never for many hours together; and, as they
+708	always see each other in large mixed parties, it is impossible that
+709	every moment should be employed in conversing together. Jane should
+710	therefore make the most of every half-hour in which she can command his
+711	attention. When she is secure of him, there will be more leisure for
+712	falling in love as much as she chooses.”
+713	
+714	“Your plan is a good one,” replied Elizabeth, “where nothing is in
+715	question but the desire of being well married, and if I were determined
+716	to get a rich husband, or any husband, I dare say I should adopt it. But
+717	these are not Jane's feelings; she is not acting by design. As yet,
+718	she cannot even be certain of the degree of her own regard nor of its
+719	reasonableness. She has known him only a fortnight. She danced four
+720	dances with him at Meryton; she saw him one morning at his own house,
+721	and has since dined with him in company four times. This is not quite
+722	enough to make her understand his character.”
+723	
+724	“Not as you represent it. Had she merely dined with him, she might
+725	only have discovered whether he had a good appetite; but you must
+726	remember that four evenings have also been spent together--and four
+727	evenings may do a great deal.”
+728	
+729	“Yes; these four evenings have enabled them to ascertain that they
+730	both like Vingt-un better than Commerce; but with respect to any other
+731	leading characteristic, I do not imagine that much has been unfolded.”
+732	
+733	“Well,” said Charlotte, “I wish Jane success with all my heart; and
+734	if she were married to him to-morrow, I should think she had as good a
+735	chance of happiness as if she were to be studying his character for a
+736	twelvemonth. Happiness in marriage is entirely a matter of chance. If
+737	the dispositions of the parties are ever so well known to each other or
+738	ever so similar beforehand, it does not advance their felicity in the
+739	least. They always continue to grow sufficiently unlike afterwards to
+740	have their share of vexation; and it is better to know as little as
+741	possible of the defects of the person with whom you are to pass your
+742	life.”
+743	
+744	“You make me laugh, Charlotte; but it is not sound. You know it is not
+745	sound, and that you would never act in this way yourself.”
+746	
+747	Occupied in observing Mr. Bingley's attentions to her sister, Elizabeth
+748	was far from suspecting that she was herself becoming an object of some
+749	interest in the eyes of his friend. Mr. Darcy had at first scarcely
+750	allowed her to be pretty; he had looked at her without admiration at the
+751	ball; and when they next met, he looked at her only to criticise. But no
+752	sooner had he made it clear to himself and his friends that she hardly
+753	had a good feature in her face, than he began to find it was rendered
+754	uncommonly intelligent by the beautiful expression of her dark eyes. To
+755	this discovery succeeded some others equally mortifying. Though he had
+756	detected with a critical eye more than one failure of perfect symmetry
+757	in her form, he was forced to acknowledge her figure to be light and
+758	pleasing; and in spite of his asserting that her manners were not those
+759	of the fashionable world, he was caught by their easy playfulness. Of
+760	this she was perfectly unaware; to her he was only the man who made
+761	himself agreeable nowhere, and who had not thought her handsome enough
+762	to dance with.
+763	
+764	He began to wish to know more of her, and as a step towards conversing
+765	with her himself, attended to her conversation with others. His doing so
+766	drew her notice. It was at Sir William Lucas's, where a large party were
+767	assembled.
+768	
+769	“What does Mr. Darcy mean,” said she to Charlotte, “by listening to my
+770	conversation with Colonel Forster?”
+771	
+772	“That is a question which Mr. Darcy only can answer.”
+773	
+774	“But if he does it any more I shall certainly let him know that I see
+775	what he is about. He has a very satirical eye, and if I do not begin by
+776	being impertinent myself, I shall soon grow afraid of him.”
+777	
+778	On his approaching them soon afterwards, though without seeming to have
+779	any intention of speaking, Miss Lucas defied her friend to mention such
+780	a subject to him; which immediately provoking Elizabeth to do it, she
+781	turned to him and said:
+782	
+783	“Did you not think, Mr. Darcy, that I expressed myself uncommonly
+784	well just now, when I was teasing Colonel Forster to give us a ball at
+785	Meryton?”
+786	
+787	“With great energy; but it is always a subject which makes a lady
+788	energetic.”
+789	
+790	“You are severe on us.”
+791	
+792	“It will be her turn soon to be teased,” said Miss Lucas. “I am going
+793	to open the instrument, Eliza, and you know what follows.”
+794	
+795	“You are a very strange creature by way of a friend!--always wanting me
+796	to play and sing before anybody and everybody! If my vanity had taken
+797	a musical turn, you would have been invaluable; but as it is, I would
+798	really rather not sit down before those who must be in the habit of
+799	hearing the very best performers.” On Miss Lucas's persevering, however,
+800	she added, “Very well, if it must be so, it must.” And gravely glancing
+801	at Mr. Darcy, “There is a fine old saying, which everybody here is of
+802	course familiar with: 'Keep your breath to cool your porridge'; and I
+803	shall keep mine to swell my song.”
+804	
+805	Her performance was pleasing, though by no means capital. After a song
+806	or two, and before she could reply to the entreaties of several that
+807	she would sing again, she was eagerly succeeded at the instrument by her
+808	sister Mary, who having, in consequence of being the only plain one in
+809	the family, worked hard for knowledge and accomplishments, was always
+810	impatient for display.
+811	
+812	Mary had neither genius nor taste; and though vanity had given her
+813	application, it had given her likewise a pedantic air and conceited
+814	manner, which would have injured a higher degree of excellence than she
+815	had reached. Elizabeth, easy and unaffected, had been listened to with
+816	much more pleasure, though not playing half so well; and Mary, at the
+817	end of a long concerto, was glad to purchase praise and gratitude by
+818	Scotch and Irish airs, at the request of her younger sisters, who,
+819	with some of the Lucases, and two or three officers, joined eagerly in
+820	dancing at one end of the room.
+821	
+822	Mr. Darcy stood near them in silent indignation at such a mode of
+823	passing the evening, to the exclusion of all conversation, and was too
+824	much engrossed by his thoughts to perceive that Sir William Lucas was
+825	his neighbour, till Sir William thus began:
+826	
+827	“What a charming amusement for young people this is, Mr. Darcy! There
+828	is nothing like dancing after all. I consider it as one of the first
+829	refinements of polished society.”
+830	
+831	“Certainly, sir; and it has the advantage also of being in vogue amongst
+832	the less polished societies of the world. Every savage can dance.”
+833	
+834	Sir William only smiled. “Your friend performs delightfully,” he
+835	continued after a pause, on seeing Bingley join the group; “and I doubt
+836	not that you are an adept in the science yourself, Mr. Darcy.”
+837	
+838	“You saw me dance at Meryton, I believe, sir.”
+839	
+840	“Yes, indeed, and received no inconsiderable pleasure from the sight. Do
+841	you often dance at St. James's?”
+842	
+843	“Never, sir.”
+844	
+845	“Do you not think it would be a proper compliment to the place?”
+846	
+847	“It is a compliment which I never pay to any place if I can avoid it.”
+848	
+849	“You have a house in town, I conclude?”
+850	
+851	Mr. Darcy bowed.
+852	
+853	“I had once had some thought of fixing in town myself--for I am fond
+854	of superior society; but I did not feel quite certain that the air of
+855	London would agree with Lady Lucas.”
+856	
+857	He paused in hopes of an answer; but his companion was not disposed
+858	to make any; and Elizabeth at that instant moving towards them, he was
+859	struck with the action of doing a very gallant thing, and called out to
+860	her:
+861	
+862	“My dear Miss Eliza, why are you not dancing? Mr. Darcy, you must allow
+863	me to present this young lady to you as a very desirable partner. You
+864	cannot refuse to dance, I am sure when so much beauty is before you.”
+865	 And, taking her hand, he would have given it to Mr. Darcy who, though
+866	extremely surprised, was not unwilling to receive it, when she instantly
+867	drew back, and said with some discomposure to Sir William:
+868	
+869	“Indeed, sir, I have not the least intention of dancing. I entreat you
+870	not to suppose that I moved this way in order to beg for a partner.”
+871	
+872	Mr. Darcy, with grave propriety, requested to be allowed the honour of
+873	her hand, but in vain. Elizabeth was determined; nor did Sir William at
+874	all shake her purpose by his attempt at persuasion.
+875	
+876	“You excel so much in the dance, Miss Eliza, that it is cruel to deny
+877	me the happiness of seeing you; and though this gentleman dislikes the
+878	amusement in general, he can have no objection, I am sure, to oblige us
+879	for one half-hour.”
+880	
+881	“Mr. Darcy is all politeness,” said Elizabeth, smiling.
+882	
+883	“He is, indeed; but, considering the inducement, my dear Miss Eliza,
+884	we cannot wonder at his complaisance--for who would object to such a
+885	partner?”
+886	
+887	Elizabeth looked archly, and turned away. Her resistance had not
+888	injured her with the gentleman, and he was thinking of her with some
+889	complacency, when thus accosted by Miss Bingley:
+890	
+891	“I can guess the subject of your reverie.”
+892	
+893	“I should imagine not.”
+894	
+895	“You are considering how insupportable it would be to pass many evenings
+896	in this manner--in such society; and indeed I am quite of your opinion.
+897	I was never more annoyed! The insipidity, and yet the noise--the
+898	nothingness, and yet the self-importance of all those people! What would
+899	I give to hear your strictures on them!”
+900	
+901	“Your conjecture is totally wrong, I assure you. My mind was more
+902	agreeably engaged. I have been meditating on the very great pleasure
+903	which a pair of fine eyes in the face of a pretty woman can bestow.”
+904	
+905	Miss Bingley immediately fixed her eyes on his face, and desired he
+906	would tell her what lady had the credit of inspiring such reflections.
+907	Mr. Darcy replied with great intrepidity:
+908	
+909	“Miss Elizabeth Bennet.”
+910	
+911	“Miss Elizabeth Bennet!” repeated Miss Bingley. “I am all astonishment.
+912	How long has she been such a favourite?--and pray, when am I to wish you
+913	joy?”
+914	
+915	“That is exactly the question which I expected you to ask. A lady's
+916	imagination is very rapid; it jumps from admiration to love, from love
+917	to matrimony, in a moment. I knew you would be wishing me joy.”
+918	
+919	“Nay, if you are serious about it, I shall consider the matter is
+920	absolutely settled. You will be having a charming mother-in-law, indeed;
+921	and, of course, she will always be at Pemberley with you.”
+922	
+923	He listened to her with perfect indifference while she chose to
+924	entertain herself in this manner; and as his composure convinced her
+925	that all was safe, her wit flowed long.
+926	
+927	
+928	
+929	Chapter 7
+930	
+931	
+932	Mr. Bennet's property consisted almost entirely in an estate of two
+933	thousand a year, which, unfortunately for his daughters, was entailed,
+934	in default of heirs male, on a distant relation; and their mother's
+935	fortune, though ample for her situation in life, could but ill supply
+936	the deficiency of his. Her father had been an attorney in Meryton, and
+937	had left her four thousand pounds.
+938	
+939	She had a sister married to a Mr. Phillips, who had been a clerk to
+940	their father and succeeded him in the business, and a brother settled in
+941	London in a respectable line of trade.
+942	
+943	The village of Longbourn was only one mile from Meryton; a most
+944	convenient distance for the young ladies, who were usually tempted
+945	thither three or four times a week, to pay their duty to their aunt and
+946	to a milliner's shop just over the way. The two youngest of the family,
+947	Catherine and Lydia, were particularly frequent in these attentions;
+948	their minds were more vacant than their sisters', and when nothing
+949	better offered, a walk to Meryton was necessary to amuse their morning
+950	hours and furnish conversation for the evening; and however bare of news
+951	the country in general might be, they always contrived to learn some
+952	from their aunt. At present, indeed, they were well supplied both with
+953	news and happiness by the recent arrival of a militia regiment in the
+954	neighbourhood; it was to remain the whole winter, and Meryton was the
+955	headquarters.
+956	
+957	Their visits to Mrs. Phillips were now productive of the most
+958	interesting intelligence. Every day added something to their knowledge
+959	of the officers' names and connections. Their lodgings were not long a
+960	secret, and at length they began to know the officers themselves. Mr.
+961	Phillips visited them all, and this opened to his nieces a store of
+962	felicity unknown before. They could talk of nothing but officers; and
+963	Mr. Bingley's large fortune, the mention of which gave animation
+964	to their mother, was worthless in their eyes when opposed to the
+965	regimentals of an ensign.
+966	
+967	After listening one morning to their effusions on this subject, Mr.
+968	Bennet coolly observed:
+969	
+970	“From all that I can collect by your manner of talking, you must be two
+971	of the silliest girls in the country. I have suspected it some time, but
+972	I am now convinced.”
+973	
+974	Catherine was disconcerted, and made no answer; but Lydia, with perfect
+975	indifference, continued to express her admiration of Captain Carter,
+976	and her hope of seeing him in the course of the day, as he was going the
+977	next morning to London.
+978	
+979	“I am astonished, my dear,” said Mrs. Bennet, “that you should be so
+980	ready to think your own children silly. If I wished to think slightingly
+981	of anybody's children, it should not be of my own, however.”
+982	
+983	“If my children are silly, I must hope to be always sensible of it.”
+984	
+985	“Yes--but as it happens, they are all of them very clever.”
+986	
+987	“This is the only point, I flatter myself, on which we do not agree. I
+988	had hoped that our sentiments coincided in every particular, but I must
+989	so far differ from you as to think our two youngest daughters uncommonly
+990	foolish.”
+991	
+992	“My dear Mr. Bennet, you must not expect such girls to have the sense of
+993	their father and mother. When they get to our age, I dare say they will
+994	not think about officers any more than we do. I remember the time when
+995	I liked a red coat myself very well--and, indeed, so I do still at my
+996	heart; and if a smart young colonel, with five or six thousand a year,
+997	should want one of my girls I shall not say nay to him; and I thought
+998	Colonel Forster looked very becoming the other night at Sir William's in
+999	his regimentals.”
+1000	
+1001	“Mamma,” cried Lydia, “my aunt says that Colonel Forster and Captain
+1002	Carter do not go so often to Miss Watson's as they did when they first
+1003	came; she sees them now very often standing in Clarke's library.”
+1004	
+1005	Mrs. Bennet was prevented replying by the entrance of the footman with
+1006	a note for Miss Bennet; it came from Netherfield, and the servant waited
+1007	for an answer. Mrs. Bennet's eyes sparkled with pleasure, and she was
+1008	eagerly calling out, while her daughter read,
+1009	
+1010	“Well, Jane, who is it from? What is it about? What does he say? Well,
+1011	Jane, make haste and tell us; make haste, my love.”
+1012	
+1013	“It is from Miss Bingley,” said Jane, and then read it aloud.
+1014	
+1015	“MY DEAR FRIEND,--
+1016	
+1017	“If you are not so compassionate as to dine to-day with Louisa and me,
+1018	we shall be in danger of hating each other for the rest of our lives,
+1019	for a whole day's tete-a-tete between two women can never end without a
+1020	quarrel. Come as soon as you can on receipt of this. My brother and the
+1021	gentlemen are to dine with the officers.--Yours ever,
+1022	
+1023	“CAROLINE BINGLEY”
+1024	
+1025	“With the officers!” cried Lydia. “I wonder my aunt did not tell us of
+1026	that.”
+1027	
+1028	“Dining out,” said Mrs. Bennet, “that is very unlucky.”
+1029	
+1030	“Can I have the carriage?” said Jane.
+1031	
+1032	“No, my dear, you had better go on horseback, because it seems likely to
+1033	rain; and then you must stay all night.”
+1034	
+1035	“That would be a good scheme,” said Elizabeth, “if you were sure that
+1036	they would not offer to send her home.”
+1037	
+1038	“Oh! but the gentlemen will have Mr. Bingley's chaise to go to Meryton,
+1039	and the Hursts have no horses to theirs.”
+1040	
+1041	“I had much rather go in the coach.”
+1042	
+1043	“But, my dear, your father cannot spare the horses, I am sure. They are
+1044	wanted in the farm, Mr. Bennet, are they not?”
+1045	
+1046	“They are wanted in the farm much oftener than I can get them.”
+1047	
+1048	“But if you have got them to-day,” said Elizabeth, “my mother's purpose
+1049	will be answered.”
+1050	
+1051	She did at last extort from her father an acknowledgment that the horses
+1052	were engaged. Jane was therefore obliged to go on horseback, and her
+1053	mother attended her to the door with many cheerful prognostics of a
+1054	bad day. Her hopes were answered; Jane had not been gone long before
+1055	it rained hard. Her sisters were uneasy for her, but her mother was
+1056	delighted. The rain continued the whole evening without intermission;
+1057	Jane certainly could not come back.
+1058	
+1059	“This was a lucky idea of mine, indeed!” said Mrs. Bennet more than
+1060	once, as if the credit of making it rain were all her own. Till the
+1061	next morning, however, she was not aware of all the felicity of her
+1062	contrivance. Breakfast was scarcely over when a servant from Netherfield
+1063	brought the following note for Elizabeth:
+1064	
+1065	“MY DEAREST LIZZY,--
+1066	
+1067	“I find myself very unwell this morning, which, I suppose, is to be
+1068	imputed to my getting wet through yesterday. My kind friends will not
+1069	hear of my returning till I am better. They insist also on my seeing Mr.
+1070	Jones--therefore do not be alarmed if you should hear of his having been
+1071	to me--and, excepting a sore throat and headache, there is not much the
+1072	matter with me.--Yours, etc.”
+1073	
+1074	“Well, my dear,” said Mr. Bennet, when Elizabeth had read the note
+1075	aloud, “if your daughter should have a dangerous fit of illness--if she
+1076	should die, it would be a comfort to know that it was all in pursuit of
+1077	Mr. Bingley, and under your orders.”
+1078	
+1079	“Oh! I am not afraid of her dying. People do not die of little trifling
+1080	colds. She will be taken good care of. As long as she stays there, it is
+1081	all very well. I would go and see her if I could have the carriage.”
+1082	
+1083	Elizabeth, feeling really anxious, was determined to go to her, though
+1084	the carriage was not to be had; and as she was no horsewoman, walking
+1085	was her only alternative. She declared her resolution.
+1086	
+1087	“How can you be so silly,” cried her mother, “as to think of such a
+1088	thing, in all this dirt! You will not be fit to be seen when you get
+1089	there.”
+1090	
+1091	“I shall be very fit to see Jane--which is all I want.”
+1092	
+1093	“Is this a hint to me, Lizzy,” said her father, “to send for the
+1094	horses?”
+1095	
+1096	“No, indeed, I do not wish to avoid the walk. The distance is nothing
+1097	when one has a motive; only three miles. I shall be back by dinner.”
+1098	
+1099	“I admire the activity of your benevolence,” observed Mary, “but every
+1100	impulse of feeling should be guided by reason; and, in my opinion,
+1101	exertion should always be in proportion to what is required.”
+1102	
+1103	“We will go as far as Meryton with you,” said Catherine and Lydia.
+1104	Elizabeth accepted their company, and the three young ladies set off
+1105	together.
+1106	
+1107	“If we make haste,” said Lydia, as they walked along, “perhaps we may
+1108	see something of Captain Carter before he goes.”
+1109	
+1110	In Meryton they parted; the two youngest repaired to the lodgings of one
+1111	of the officers' wives, and Elizabeth continued her walk alone, crossing
+1112	field after field at a quick pace, jumping over stiles and springing
+1113	over puddles with impatient activity, and finding herself at last
+1114	within view of the house, with weary ankles, dirty stockings, and a face
+1115	glowing with the warmth of exercise.
+1116	
+1117	She was shown into the breakfast-parlour, where all but Jane were
+1118	assembled, and where her appearance created a great deal of surprise.
+1119	That she should have walked three miles so early in the day, in such
+1120	dirty weather, and by herself, was almost incredible to Mrs. Hurst and
+1121	Miss Bingley; and Elizabeth was convinced that they held her in contempt
+1122	for it. She was received, however, very politely by them; and in their
+1123	brother's manners there was something better than politeness; there
+1124	was good humour and kindness. Mr. Darcy said very little, and Mr.
+1125	Hurst nothing at all. The former was divided between admiration of the
+1126	brilliancy which exercise had given to her complexion, and doubt as
+1127	to the occasion's justifying her coming so far alone. The latter was
+1128	thinking only of his breakfast.
+1129	
+1130	Her inquiries after her sister were not very favourably answered. Miss
+1131	Bennet had slept ill, and though up, was very feverish, and not
+1132	well enough to leave her room. Elizabeth was glad to be taken to her
+1133	immediately; and Jane, who had only been withheld by the fear of giving
+1134	alarm or inconvenience from expressing in her note how much she longed
+1135	for such a visit, was delighted at her entrance. She was not equal,
+1136	however, to much conversation, and when Miss Bingley left them
+1137	together, could attempt little besides expressions of gratitude for the
+1138	extraordinary kindness she was treated with. Elizabeth silently attended
+1139	her.
+1140	
+1141	When breakfast was over they were joined by the sisters; and Elizabeth
+1142	began to like them herself, when she saw how much affection and
+1143	solicitude they showed for Jane. The apothecary came, and having
+1144	examined his patient, said, as might be supposed, that she had caught
+1145	a violent cold, and that they must endeavour to get the better of it;
+1146	advised her to return to bed, and promised her some draughts. The advice
+1147	was followed readily, for the feverish symptoms increased, and her head
+1148	ached acutely. Elizabeth did not quit her room for a moment; nor were
+1149	the other ladies often absent; the gentlemen being out, they had, in
+1150	fact, nothing to do elsewhere.
+1151	
+1152	When the clock struck three, Elizabeth felt that she must go, and very
+1153	unwillingly said so. Miss Bingley offered her the carriage, and she only
+1154	wanted a little pressing to accept it, when Jane testified such concern
+1155	in parting with her, that Miss Bingley was obliged to convert the offer
+1156	of the chaise to an invitation to remain at Netherfield for the present.
+1157	Elizabeth most thankfully consented, and a servant was dispatched to
+1158	Longbourn to acquaint the family with her stay and bring back a supply
+1159	of clothes.
+1160	
+1161	
+1162	
+1163	Chapter 8
+1164	
+1165	
+1166	At five o'clock the two ladies retired to dress, and at half-past six
+1167	Elizabeth was summoned to dinner. To the civil inquiries which then
+1168	poured in, and amongst which she had the pleasure of distinguishing the
+1169	much superior solicitude of Mr. Bingley's, she could not make a very
+1170	favourable answer. Jane was by no means better. The sisters, on hearing
+1171	this, repeated three or four times how much they were grieved, how
+1172	shocking it was to have a bad cold, and how excessively they disliked
+1173	being ill themselves; and then thought no more of the matter: and their
+1174	indifference towards Jane when not immediately before them restored
+1175	Elizabeth to the enjoyment of all her former dislike.
+1176	
+1177	Their brother, indeed, was the only one of the party whom she could
+1178	regard with any complacency. His anxiety for Jane was evident, and his
+1179	attentions to herself most pleasing, and they prevented her feeling
+1180	herself so much an intruder as she believed she was considered by the
+1181	others. She had very little notice from any but him. Miss Bingley was
+1182	engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr.
+1183	Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to
+1184	eat, drink, and play at cards; who, when he found her to prefer a plain
+1185	dish to a ragout, had nothing to say to her.
+1186	
+1187	When dinner was over, she returned directly to Jane, and Miss Bingley
+1188	began abusing her as soon as she was out of the room. Her manners were
+1189	pronounced to be very bad indeed, a mixture of pride and impertinence;
+1190	she had no conversation, no style, no beauty. Mrs. Hurst thought the
+1191	same, and added:
+1192	
+1193	“She has nothing, in short, to recommend her, but being an excellent
+1194	walker. I shall never forget her appearance this morning. She really
+1195	looked almost wild.”
+1196	
+1197	“She did, indeed, Louisa. I could hardly keep my countenance. Very
+1198	nonsensical to come at all! Why must she be scampering about the
+1199	country, because her sister had a cold? Her hair, so untidy, so blowsy!”
+1200	
+1201	“Yes, and her petticoat; I hope you saw her petticoat, six inches deep
+1202	in mud, I am absolutely certain; and the gown which had been let down to
+1203	hide it not doing its office.”
+1204	
+1205	“Your picture may be very exact, Louisa,” said Bingley; “but this was
+1206	all lost upon me. I thought Miss Elizabeth Bennet looked remarkably
+1207	well when she came into the room this morning. Her dirty petticoat quite
+1208	escaped my notice.”
+1209	
+1210	“You observed it, Mr. Darcy, I am sure,” said Miss Bingley; “and I am
+1211	inclined to think that you would not wish to see your sister make such
+1212	an exhibition.”
+1213	
+1214	“Certainly not.”
+1215	
+1216	“To walk three miles, or four miles, or five miles, or whatever it is,
+1217	above her ankles in dirt, and alone, quite alone! What could she mean by
+1218	it? It seems to me to show an abominable sort of conceited independence,
+1219	a most country-town indifference to decorum.”
+1220	
+1221	“It shows an affection for her sister that is very pleasing,” said
+1222	Bingley.
+1223	
+1224	“I am afraid, Mr. Darcy,” observed Miss Bingley in a half whisper, “that
+1225	this adventure has rather affected your admiration of her fine eyes.”
+1226	
+1227	“Not at all,” he replied; “they were brightened by the exercise.” A
+1228	short pause followed this speech, and Mrs. Hurst began again:
+1229	
+1230	“I have an excessive regard for Miss Jane Bennet, she is really a very
+1231	sweet girl, and I wish with all my heart she were well settled. But with
+1232	such a father and mother, and such low connections, I am afraid there is
+1233	no chance of it.”
+1234	
+1235	“I think I have heard you say that their uncle is an attorney in
+1236	Meryton.”
+1237	
+1238	“Yes; and they have another, who lives somewhere near Cheapside.”
+1239	
+1240	“That is capital,” added her sister, and they both laughed heartily.
+1241	
+1242	“If they had uncles enough to fill all Cheapside,” cried Bingley, “it
+1243	would not make them one jot less agreeable.”
+1244	
+1245	“But it must very materially lessen their chance of marrying men of any
+1246	consideration in the world,” replied Darcy.
+1247	
+1248	To this speech Bingley made no answer; but his sisters gave it their
+1249	hearty assent, and indulged their mirth for some time at the expense of
+1250	their dear friend's vulgar relations.
+1251	
+1252	With a renewal of tenderness, however, they returned to her room on
+1253	leaving the dining-parlour, and sat with her till summoned to coffee.
+1254	She was still very poorly, and Elizabeth would not quit her at all, till
+1255	late in the evening, when she had the comfort of seeing her sleep, and
+1256	when it seemed to her rather right than pleasant that she should go
+1257	downstairs herself. On entering the drawing-room she found the whole
+1258	party at loo, and was immediately invited to join them; but suspecting
+1259	them to be playing high she declined it, and making her sister the
+1260	excuse, said she would amuse herself for the short time she could stay
+1261	below, with a book. Mr. Hurst looked at her with astonishment.
+1262	
+1263	“Do you prefer reading to cards?” said he; “that is rather singular.”
+1264	
+1265	“Miss Eliza Bennet,” said Miss Bingley, “despises cards. She is a great
+1266	reader, and has no pleasure in anything else.”
+1267	
+1268	“I deserve neither such praise nor such censure,” cried Elizabeth; “I am
+1269	not a great reader, and I have pleasure in many things.”
+1270	
+1271	“In nursing your sister I am sure you have pleasure,” said Bingley; “and
+1272	I hope it will be soon increased by seeing her quite well.”
+1273	
+1274	Elizabeth thanked him from her heart, and then walked towards the
+1275	table where a few books were lying. He immediately offered to fetch her
+1276	others--all that his library afforded.
+1277	
+1278	“And I wish my collection were larger for your benefit and my own
+1279	credit; but I am an idle fellow, and though I have not many, I have more
+1280	than I ever looked into.”
+1281	
+1282	Elizabeth assured him that she could suit herself perfectly with those
+1283	in the room.
+1284	
+1285	“I am astonished,” said Miss Bingley, “that my father should have left
+1286	so small a collection of books. What a delightful library you have at
+1287	Pemberley, Mr. Darcy!”
+1288	
+1289	“It ought to be good,” he replied, “it has been the work of many
+1290	generations.”
+1291	
+1292	“And then you have added so much to it yourself, you are always buying
+1293	books.”
+1294	
+1295	“I cannot comprehend the neglect of a family library in such days as
+1296	these.”
+1297	
+1298	“Neglect! I am sure you neglect nothing that can add to the beauties of
+1299	that noble place. Charles, when you build your house, I wish it may be
+1300	half as delightful as Pemberley.”
+1301	
+1302	“I wish it may.”
+1303	
+1304	“But I would really advise you to make your purchase in that
+1305	neighbourhood, and take Pemberley for a kind of model. There is not a
+1306	finer county in England than Derbyshire.”
+1307	
+1308	“With all my heart; I will buy Pemberley itself if Darcy will sell it.”
+1309	
+1310	“I am talking of possibilities, Charles.”
+1311	
+1312	“Upon my word, Caroline, I should think it more possible to get
+1313	Pemberley by purchase than by imitation.”
+1314	
+1315	Elizabeth was so much caught with what passed, as to leave her very
+1316	little attention for her book; and soon laying it wholly aside, she drew
+1317	near the card-table, and stationed herself between Mr. Bingley and his
+1318	eldest sister, to observe the game.
+1319	
+1320	“Is Miss Darcy much grown since the spring?” said Miss Bingley; “will
+1321	she be as tall as I am?”
+1322	
+1323	“I think she will. She is now about Miss Elizabeth Bennet's height, or
+1324	rather taller.”
+1325	
+1326	“How I long to see her again! I never met with anybody who delighted me
+1327	so much. Such a countenance, such manners! And so extremely accomplished
+1328	for her age! Her performance on the pianoforte is exquisite.”
+1329	
+1330	“It is amazing to me,” said Bingley, “how young ladies can have patience
+1331	to be so very accomplished as they all are.”
+1332	
+1333	“All young ladies accomplished! My dear Charles, what do you mean?”
+1334	
+1335	“Yes, all of them, I think. They all paint tables, cover screens, and
+1336	net purses. I scarcely know anyone who cannot do all this, and I am sure
+1337	I never heard a young lady spoken of for the first time, without being
+1338	informed that she was very accomplished.”
+1339	
+1340	“Your list of the common extent of accomplishments,” said Darcy, “has
+1341	too much truth. The word is applied to many a woman who deserves it no
+1342	otherwise than by netting a purse or covering a screen. But I am very
+1343	far from agreeing with you in your estimation of ladies in general. I
+1344	cannot boast of knowing more than half-a-dozen, in the whole range of my
+1345	acquaintance, that are really accomplished.”
+1346	
+1347	“Nor I, I am sure,” said Miss Bingley.
+1348	
+1349	“Then,” observed Elizabeth, “you must comprehend a great deal in your
+1350	idea of an accomplished woman.”
+1351	
+1352	“Yes, I do comprehend a great deal in it.”
+1353	
+1354	“Oh! certainly,” cried his faithful assistant, “no one can be really
+1355	esteemed accomplished who does not greatly surpass what is usually met
+1356	with. A woman must have a thorough knowledge of music, singing, drawing,
+1357	dancing, and the modern languages, to deserve the word; and besides
+1358	all this, she must possess a certain something in her air and manner of
+1359	walking, the tone of her voice, her address and expressions, or the word
+1360	will be but half-deserved.”
+1361	
+1362	“All this she must possess,” added Darcy, “and to all this she must
+1363	yet add something more substantial, in the improvement of her mind by
+1364	extensive reading.”
+1365	
+1366	“I am no longer surprised at your knowing only six accomplished women.
+1367	I rather wonder now at your knowing any.”
+1368	
+1369	“Are you so severe upon your own sex as to doubt the possibility of all
+1370	this?”
+1371	
+1372	“I never saw such a woman. I never saw such capacity, and taste, and
+1373	application, and elegance, as you describe united.”
+1374	
+1375	Mrs. Hurst and Miss Bingley both cried out against the injustice of her
+1376	implied doubt, and were both protesting that they knew many women who
+1377	answered this description, when Mr. Hurst called them to order, with
+1378	bitter complaints of their inattention to what was going forward. As all
+1379	conversation was thereby at an end, Elizabeth soon afterwards left the
+1380	room.
+1381	
+1382	“Elizabeth Bennet,” said Miss Bingley, when the door was closed on her,
+1383	“is one of those young ladies who seek to recommend themselves to the
+1384	other sex by undervaluing their own; and with many men, I dare say, it
+1385	succeeds. But, in my opinion, it is a paltry device, a very mean art.”
+1386	
+1387	“Undoubtedly,” replied Darcy, to whom this remark was chiefly addressed,
+1388	“there is a meanness in all the arts which ladies sometimes condescend
+1389	to employ for captivation. Whatever bears affinity to cunning is
+1390	despicable.”
+1391	
+1392	Miss Bingley was not so entirely satisfied with this reply as to
+1393	continue the subject.
+1394	
+1395	Elizabeth joined them again only to say that her sister was worse, and
+1396	that she could not leave her. Bingley urged Mr. Jones being sent for
+1397	immediately; while his sisters, convinced that no country advice could
+1398	be of any service, recommended an express to town for one of the most
+1399	eminent physicians. This she would not hear of; but she was not so
+1400	unwilling to comply with their brother's proposal; and it was settled
+1401	that Mr. Jones should be sent for early in the morning, if Miss Bennet
+1402	were not decidedly better. Bingley was quite uncomfortable; his sisters
+1403	declared that they were miserable. They solaced their wretchedness,
+1404	however, by duets after supper, while he could find no better relief
+1405	to his feelings than by giving his housekeeper directions that every
+1406	attention might be paid to the sick lady and her sister.

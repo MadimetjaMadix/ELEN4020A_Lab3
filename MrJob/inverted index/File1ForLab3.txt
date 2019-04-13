@@ -1,0 +1,34 @@
+1	The Project Gutenberg EBook of Pride and Prejudice, by Jane Austen
+2	
+3	Title: Pride and Prejudice
+4	
+5	Author: Jane Austen
+6	
+7	Language: English
+8	
+9	*** START OF THIS PROJECT GUTENBERG EBOOK PRIDE AND PREJUDICE ***
+10	Produced by Anonymous Volunteers
+11	
+12	PRIDE AND PREJUDICE
+13	
+14	By Jane Austen
+15	
+16	Chapter 1
+17	
+18	It is a truth universally acknowledged, that a single man in possession
+19	of a good fortune, must be in want of a wife.
+20	
+21	However little known the feelings or views of such a man may be on his
+22	first entering a neighbourhood, this truth is so well fixed in the minds
+23	of the surrounding families, that he is considered the rightful property
+24	of some one or other of their daughters.
+25	
+26	“My dear Mr. Bennet,” said his lady to him one day, “have you heard that
+27	Netherfield Park is let at last?”
+28	
+29	Mr. Bennet replied that he had not.
+30	
+31	“But it is,” returned she; “for Mrs. Long has just been here, and she
+32	told me all about it.”
+33	
+34	Mr. Bennet made no answer.
