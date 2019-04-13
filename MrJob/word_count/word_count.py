@@ -1,6 +1,6 @@
 from mrjob.job  import MRJob
 from mrjob.step import MRStep
-
+import time
 import re
 
 def getStopWords():
@@ -48,4 +48,7 @@ class MRWordFrequencyCount(MRJob):
 		yield (word, sum(counts))
 		
 if __name__ == '__main__':
+	t_start = time.process_time()
 	MRWordFrequencyCount.run()
+	t_end = time.process_time() - t_start
+	print("Time taken to process: ", t_end)
