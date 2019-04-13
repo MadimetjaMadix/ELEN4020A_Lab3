@@ -34,7 +34,7 @@ class MRWordFrequencyCount(MRJob):
 	def steps(self):
 		return [  MRStep(mapper   = self.mapper_get_words,
 						 combiner = self.combiner_count_words,
-						 reducer  = self.combiner_count_words)]
+						 reducer  = self.reducer_count_words)]
 		
 	def mapper_get_words(self, _, line):
 		# yield each word in the line
@@ -47,8 +47,9 @@ class MRWordFrequencyCount(MRJob):
 		# optimization: sum the words we've seen so far
 		yield (word, sum(counts))
 		
+	def reducer_count_words(self, word, counts):
+		# sum the rest of the words we've seen so far
+		yield (word, sum(counts))
+		
 if __name__ == '__main__':
-	t_start = time.process_time()
 	MRWordFrequencyCount.run()
-	t_end = time.process_time() - t_start
-	print("Time taken to process: ", t_end)
