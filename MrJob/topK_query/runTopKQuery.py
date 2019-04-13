@@ -28,11 +28,11 @@ with mr_job.make_runner() as runner:
 	for key, word_count_pair in mr_job.parse_output(runner.cat_output()):
 		word_count_pairs.append(word_count_pair)
 	
-	sort_list(word_count_pairs)
+	word_count_pairs_list = sort_list(word_count_pairs)
 	
 	t_end = time.process_time() - t_start
 	
-	getTopKWords(word_count_pairs, 10)
-	getTopKWords(word_count_pairs, 20)
+	getTopKWords(word_count_pairs_list, 10)
+	getTopKWords(word_count_pairs_list, 20)
 	
 	print("Time taken to process: ", t_end)
