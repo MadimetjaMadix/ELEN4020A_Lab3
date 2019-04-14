@@ -305,7 +305,7 @@ The way MRJob reads in a file is different from that in Mrs-MapReduce. The key g
     \end{algorithm}
 \end{figure}
 %
-For this task, Listing\ref*{lst:MRJobInvertedIndexing} indicates how to execute the code in the command line terminal.
+\noindent For this task, Listing\ref*{lst:MRJobInvertedIndexing} indicates how to execute the code in the command line terminal.
 %
 \begin{center}
 \begin{minipage}{0.99\columnwidth}
@@ -329,11 +329,9 @@ python runInvertedIndexing.py <filename>
 \end{minipage}
 \end{center}
 %
-
-%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Analysis of Results}
-To analyze the performance of the MapReduce frameworks implemented, the authors ran the python scripts on a desktop computer with the following specs: an Intel Core i7-6700 CPU with 8\,cores running at 3.40\,GHz and 8\,GB DDR3\,RAM and on the Wits EIE hornet01 Linux computer which has 8\,cores running at 3.40\,GHz and 16\,GB RAM. Both computers were running Ubuntu with the only difference that the desktop was using version 16.04 LTS and the hornet01 was running Ubuntu 18.04.2 LTS.\\
+To analyze the performance of the MapReduce frameworks implemented, the authors ran the python scripts on a desktop computer with the following specs: an Intel Core i7-6700 CPU with 8\,cores running at 3.40\,GHz and 8\,GB DDR3\,RAM and on the Wits EIE Hornet01 Linux computer which has 8\,cores running at 3.40\,GHz and 16\,GB RAM. Both computers were running Ubuntu with the only difference that the desktop was using version 16.04 LTS and the Hornet01 was running Ubuntu 18.04.2 LTS.\\
 
 \noindent The text files generated for testing were \emph{File1ForLab3.txt} which contained only 34 lines of text and \emph{File2ForLab3.txt} which contained 1407 lines of text. 
 %
@@ -358,7 +356,7 @@ python <py script> -r local <filename>
 %
 Unlike MrJob, Mrs MapReduce was only tested as a local runner. This allowed for the jobs to be split into sub-processes. All the Mrs MapReduce scripts had a runner script because the Mrs' reduce function has an exit script command which closes the script without return to where it was called. The runner script was used to time the main algorithm's performance. The scripts were ran at least five times and the average time in seconds was recorded. The results can be observe in Appendix\;\;\ref*{app:Results}, Table\;\;\ref{tbl:MrsMapReduceResults}.
 
-From the results, it can be seen that scripts took longer to compute on the Desktop PC as compared to when they were ran on 
+From the results, it can be seen that scripts took longer to compute on the Desktop PC as compared to when they were ran on Hornet01. This is mainly because Hornet01 is configured to run workloads in parallel.
 %
 \subsection{MRJob vs Mrs-MapReduce}
 When processing \emph{File1ForLab3.txt} on Hornet01, MRJob in Local runner configuration and Mrs-MapReduce have similar execution times. This is not the same when processing the larger text in \emph{File2ForLab3.txt}, where it can be seen that MRJob in Local runner configuration is faster than Mrs-MapReduce by as much as approximately 400\,ms and a minimum of approximately 200\,ms.\\
