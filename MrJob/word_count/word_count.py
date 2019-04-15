@@ -1,7 +1,10 @@
 from mrjob.job  import MRJob
 from mrjob.step import MRStep
+import string
 import time
 import re
+
+WORD_RE    = re.compile(r"[\w']+") #looks for words such as "word", word's "word's", word
 
 def getStopWords():
 	return [ "a", "about", "above", "after", "again", 
@@ -27,7 +30,7 @@ def getStopWords():
 	"why's", "with", "would", "you", "you'd", "you'll", "you're", 
 	"you've", "your", "yours", "yourself", "yourselves" ]
 
-WORD_RE    = re.compile(r"[\w']+") #looks for words such as "word", word's "word's", word
+
 STOP_WORDS = getStopWords()
 
 class MRWordFrequencyCount(MRJob):
@@ -39,6 +42,7 @@ class MRWordFrequencyCount(MRJob):
 	def mapper_get_words(self, _, line):
 		# yield each word in the line
 		for word in WORD_RE.findall(line):
+			word = word.strip(string.punctuation).lower()
 			if word.lower() not in STOP_WORDS:
 				if not word.isdigit():
 					yield (word.lower(), 1)
