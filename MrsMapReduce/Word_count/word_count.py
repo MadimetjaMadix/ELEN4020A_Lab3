@@ -2,6 +2,7 @@
 
 import mrs
 import string
+import shutil, os
 
 import re
 
@@ -39,9 +40,8 @@ class WordCount(mrs.MapReduce):
     def map(self, line_num, line_text):
         for word in WORD_RE.findall(line_text):
             word = word.strip(string.punctuation).lower()
-            if word.lower() not in STOP_WORDS:
-                if word:
-                    yield (word, 1)
+            if word.lower() not in STOP_WORDS and not word.isdigit():
+                yield (word.lower(), 1)
 
     def reduce(self, word, counts):
         yield sum(counts)

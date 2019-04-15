@@ -1,8 +1,11 @@
-import os
+import shutil, os
 import sys
 import time
 
 filename = sys.argv[1]
+
+if os.path.exists('outPut'):
+		shutil.rmtree('outPut')
 
 print("starting Mrs MapReduce on :", filename)
 start = time.time()
