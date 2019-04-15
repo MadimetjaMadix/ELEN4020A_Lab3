@@ -36,12 +36,11 @@ class MRInvertedIndex(MRJob):
 						 reducer  = self.reducer_words_locations_list)]	
 						 	 
 	def mapper_get_word_locations(self, _, line):
-		key, line = line.split("\t")
+		key, line = line.split(" ", 1)
 		# yield each word in the line and the line number in key
 		for word in WORD_RE.findall(line):
-			if word.lower() not in STOP_WORDS:
-				if not word.isdigit():
-					yield (word.lower(), key)
+			if word.lower() not in STOP_WORDS and not word.isdigit():
+				yield (word.lower(), key)
 	
 	def reducer_words_locations_list(self, word, line_numbers):
 		line_numbers_list = list(line_numbers)#create list object
