@@ -37,7 +37,7 @@ class MRSInvertedIndex(mrs.MapReduce):
         for word in WORD_RE.findall(line_text):
             word = word.strip(string.punctuation).lower()
             if word.lower() not in STOP_WORDS:
-                if word:
+                if not word.isdigit():
                     yield (word, line_num)
 
     def reduce(self, word, line_num_list):
