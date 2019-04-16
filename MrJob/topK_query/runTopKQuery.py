@@ -22,7 +22,9 @@ def getTopKWords(word_count_pairs_list, k):
 		
 word_count_pairs = []
 t_start = time.process_time()
-mr_job = MRTopKWordQuery(args=sys.argv[1:])
+job_args = ['-r', 'local']
+job_args.extend(sys.argv[1:])
+mr_job = MRTopKWordQuery(args=job_args)
 with mr_job.make_runner() as runner:
 	runner.run()
 	for key, word_count_pair in mr_job.parse_output(runner.cat_output()):
