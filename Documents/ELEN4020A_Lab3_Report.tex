@@ -337,37 +337,29 @@ To analyze the performance of the MapReduce frameworks implemented, the authors 
 %
 \subsection{MRJob}
 %
-The MRJob's jobs were tested in two different configurations for the runners. They were executed with an \emph{inline} runner and a \emph{local} runner. An inline runner runs MRJob in the same process thus parallelism isn't utilized entirely \cite{ELEN4020A_REF:MRJobLocalRunner}, while a local runner spawns multiple sub-processes for each task\cite{ELEN4020A_REF:MRJobInlineRunner}. \\
+The MRJob's jobs were tested in local runner configurations for the runners. A local runner runs MRJob in multiple sub-processes for each task \cite{ELEN4020A_REF:MrJobLocalRunner} .\\
 
-\noindent The average time taken to execute the jobs were taken down in seconds and the results for the inline runner can be seen in Appendix \ref*{app:Results} Table\,\ref{tbl:MRJobInlineRunnerResults} and those for the local runner can be seen in Appendix \ref*{app:Results} Table\,\ref{tbl:MRJobLocalRunnerResults}. The local runner configuration can be achieved by executing the python scripts in the terminal as shown in Listing\,\ref*{lst:MRJobLocalRunner}. 
+\noindent The average time taken to execute the jobs were taken down in seconds and the results can be seen in Appendix \ref*{app:Results} Table\,\ref{tbl:MRJobLocalRunnerResults}.
 %%%%%
-\begin{center}
-\begin{minipage}{0.95\columnwidth}
-\begin{lstlisting}[style=bashStyle, label=lst:MRJobLocalRunner, caption = Command to execute MRJob python script in Local runner configuration]
-python <py script> -r local <filename>
-\end{lstlisting}
-\end{minipage}
-\end{center}
 \noindent The scripts were executed three times and the average of the results were taken down.\\
 
- \noindent From the results, it an be seen that the local runner configuration performs better on Hornet01 than it does on the Dekstop PC for both input files. The speed differences might be because Hornet01 is configured to run workloads in parallel and MRJob would try to run the workloads across the Desktop PC's cores. The opposite trend is seen when running the inline runner configuration. The Desktop PC performs better in this configuration. The variance in results may be due to the configuration of the Hornet01 computer.
+ \noindent From the results, it an be seen that the local runner configuration performs better on Hornet01 than it does on the Desktop PC for both input files. The speed differences might be because Hornet01 is configured to run workloads in parallel and MRJob would try to run the workloads across the Desktop PC's cores. The variance in results may be due to the configuration of the Hornet01 computer.
 %%%%%
 \subsection{Mrs MapReduce}
 %
-Unlike MrJob, Mrs MapReduce was only tested as a local runner. This allowed for the jobs to be split into sub-processes. All the Mrs MapReduce scripts had a runner script because the Mrs' reduce function has an exit script command which closes the script without return to where it was called. The runner script was used to time the main algorithm's performance. The scripts were ran at least five times and the average time in seconds was recorded. The results can be observe in Appendix\;\;\ref*{app:Results}, Table\;\;\ref{tbl:MrsMapReduceResults}.
+Mrs MapReduce was only tested as a local runner. This allowed for the jobs to be split into sub-processes. All the Mrs MapReduce scripts had a runner script because the Mrs' reduce function has an exit script command which closes the script without return to where it was called. The runner script was used to time the main algorithm's performance. The scripts were ran at least five times and the average time in seconds was recorded. The results can be observe in Appendix\;\;\ref*{app:Results} Table\;\;\ref{tbl:MrsMapReduceResults}.
 
-From the results, it can be seen that scripts took longer to compute on the Desktop PC as compared to when they were ran on Hornet01. This is mainly because Hornet01 is configured to run workloads in parallel.
+\noindent From the results, it can be seen that scripts took longer to compute on the Desktop PC as compared to when they were ran on Hornet01. This is mainly because Hornet01 is configured to run workloads in parallel.
 %
 \subsection{MRJob vs Mrs-MapReduce}
 When processing \emph{File1ForLab3.txt} on Hornet01, MRJob in Local runner configuration and Mrs-MapReduce have similar execution times. This is not the same when processing the larger text in \emph{File2ForLab3.txt}, where it can be seen that MRJob in Local runner configuration is faster than Mrs-MapReduce by as much as approximately 400\,ms and a minimum of approximately 200\,ms.\\
 
-\noindent When processing \emph{File1ForLab3.txt} on Hornet01, MRJob in inline runner configuration and Mrs-MapReduce have different execution times. Mrs-MapReduce can be seen to perform better in this case. Same can be said when processing  \emph{File2ForLab3.txt}. The performance gap widens even further and MRJob is slower by as much as 2500\,ms for the Word Count task. \\
+\noindent On the Desktop PC, MRJob performed better than Mrs-MapReduce on both files in most cases. The differences in processing times might be due to the differences in how the libraries were coded and the fact that one needs to read Mrs-MapReduce's reducer output from a text file. Reading the data from the disk could increase the processing time.
 
-\noindent On the Desktop PC, MRJob in both Inline and Local runner configuration performed better than Mrs-MapReduce on both files in most cases. The differences in processing times might be due to the differences in how the libraries were coded.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Conclusion}
 %
-This report detailed the use of MRJob and Mrs-MapReduce, in Python, to solve simple problems using a MapReduce approach. It was observed that MRJob in local runner configuration generally performed better on all tasks than Mrs-MapReduce on both Hornet01 and on the Desktop PC for both large and small texts. Mrs-MapReduce was faster on Hornet01 when MRJob was using Inline runner configuration for both texts. Both frameworks provided an easy way to perform MapReduce tasks and are documented well.
+This report detailed the use of MRJob and Mrs-MapReduce, in Python, to solve simple problems using a MapReduce approach. It was observed that MRJob in local runner configuration generally performed better on all tasks than Mrs-MapReduce on both Hornet01 and on the Desktop PC for both large and small texts. Both frameworks provided an easy way to perform MapReduce tasks and are documented well.
 %
 \bibliographystyle{IEEEtran}
 \bibliography{IEEEabrv,ELEN4020A_REF}
@@ -415,19 +407,6 @@ This report detailed the use of MRJob and Mrs-MapReduce, in Python, to solve sim
 \section{Results}
 \label{app:Results}
 \subsection{MRJob}
-\begin{table}[H]
-\centering
-\caption{Table showing time taken in seconds to execute MRJob with an inline runner}
-\label{tbl:MRJobInlineRunnerResults}
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-\multicolumn{7}{|c|}{\textbf{MRJob's Runner in Inline Mode}}                                                                                                                                                \\ \hline
-\textbf{}                         & \multicolumn{2}{c|}{\textbf{Word Count}}                                  & \multicolumn{2}{c|}{\textbf{Top K Query}} & \multicolumn{2}{c|}{\textbf{Inverted Indexing}} \\ \hline
- & \multicolumn{1}{l|}{\textbf{PC}} & \multicolumn{1}{l|}{\textbf{Hornet01}} & \textbf{PC}      & \textbf{Hornet01}      & \textbf{PC}         & \textbf{Hornet01}         \\ \cline{1-7} 
-File1ForLab3.txt                                  & 0.1614866860                     & 0.234113037                            & 0.206561392      & 0.237100641            & 0.155400192         & 0.167444410               \\ \hline
-File2ForLab3.txt                  & 0.3390905024                     & 0.478173682                            & 0.348368527      & 0.475915451            & 0.252612733         & 0.306580266               \\ \hline
-\end{tabular}
-\end{table}
 %%%%%
 \begin{table}[H]
 \centering
@@ -439,7 +418,7 @@ File2ForLab3.txt                  & 0.3390905024                     & 0.4781736
 \textbf{}                         & \multicolumn{2}{c|}{\textbf{Word Count}}                                  & \multicolumn{2}{c|}{\textbf{Top K Query}} & \multicolumn{2}{c|}{\textbf{Inverted Indexing}} \\ \hline
  &\multicolumn{1}{l|}{\textbf{PC}} & \multicolumn{1}{l|}{\textbf{Hornet01}} & \textbf{PC}      & \textbf{Hornet01}      & \textbf{PC}         & \textbf{Hornet01}         \\ \cline{1-7} 
 File1ForLab3.txt                                  & 0.349227458                      & 0.145003454                            & 0.292195913      & 0.151581794            & 0.292010370         & 0.129592853               \\ \hline
-File2ForLab3.txt                  & 0.321756097                      & 0.185552867                            & 0.332126871      & 0.169163441            & 0.302988557         & 0.164811396               \\ \hline
+File2ForLab3.txt                  & 0.447210146                      & 0.309454827                            & 0.397815861      & 0.267846315            & 0.414259918         & 0.354714417               \\ \hline
 \end{tabular}
 \end{table}
 %%%%%
@@ -456,7 +435,7 @@ File2ForLab3.txt                  & 0.321756097                      & 0.1855528
 \multicolumn{1}{|c|}{\textbf{}}   & \multicolumn{2}{c|}{\textbf{Word Count}}                                  & \multicolumn{2}{c|}{\textbf{Top K Query}} & \multicolumn{2}{c|}{\textbf{Inverted Indexing}} \\ \hline
  & \multicolumn{1}{c|}{\textbf{PC}} & \multicolumn{1}{c|}{\textbf{Hornet01}} & \textbf{PC}      & \textbf{Hornet01}      & \textbf{PC}         & \textbf{Hornet01}         \\ \cline{1-7} 
 File1ForLab3.txt                                  & 0.334859609                      & 0.157367229                            & 0.363074302      & 0.159703254            & 0.415356397         & 0.157572984               \\ \hline
-File2ForLab3.txt                  & 0.397320747                      & 0.220757007                            & 0.436202526      & 0.220881700            & 0.436696052         & 0.220025539               \\ \hline
+File2ForLab3.txt                  & 1.233693599                      & 1.230403423                            & 1.351403713      & 1.410311222            & 1.896836280         & 1.556517839               \\ \hline
 \end{tabular}
 \end{table} 
 \end{document}
